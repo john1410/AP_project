@@ -1,0 +1,57 @@
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\Home.g.cs
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\InputForm.g.cs
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\Home.baml
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\InputForm.baml
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\sajjad\Documents\University\Semester 6\AP\HW\Proj\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\Home.g.cs
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\InputForm.g.cs
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\App.g.cs
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\Home.baml
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\InputForm.baml
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\John\Desktop\RezamousavianWPF\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\Home.g.cs
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\App.g.cs
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\John\Desktop\AP_project\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\John\Desktop\AP_project\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\John\Desktop\AP_project\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\Form.g.cs
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\Home.baml
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\Form.baml
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\John\Desktop\AP_project\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
