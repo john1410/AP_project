@@ -6,7 +6,7 @@
       xmlns:local="clr-namespace:WpfApp1"
       mc:Ignorable="d" 
       d:DesignHeight="350" d:DesignWidth="500"
-      Title="Fill the form">
+      Title="Second page ">
     <Page.Resources>
                 <Style TargetType="{x:Type TabItem}" >
             <Setter Property="Cursor" Value="Hand"/>

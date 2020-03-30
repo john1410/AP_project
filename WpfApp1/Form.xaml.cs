@@ -41,6 +41,7 @@ namespace WpfApp1
             tabctr.SelectedIndex = 1;
             this.NavigationService.Navigate(MainWindow.home);
         }
+        //load image from local system
         private void btnLoad_Click(object sender, RoutedEventArgs e)
         {
             OpenFileDialog op = new OpenFileDialog();

@@ -33,9 +33,11 @@ namespace WpfApp1
 
         private void TextBox_GotFocus(object sender, RoutedEventArgs e)
         {
-            TextBox tb = (TextBox)sender;
-            tb.Text = string.Empty;
-            tb.GotFocus -= TextBox_GotFocus;
+            //create the new tab
+            //for swipe betwen two tabs in home and form
+            TextBox newtab = (TextBox)sender;
+            newtab.Text = string.Empty;
+            newtab.GotFocus -= TextBox_GotFocus;
         }
 
         private void TabControl_SelectionChanged(object sender, SelectionChangedEventArgs e)
